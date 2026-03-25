@@ -61,7 +61,8 @@ telecom_incident_classifier/
 │   ├── 01_resolution_embeddings.ipynb
 │   ├── 02_resolution_mlp.ipynb
 │   ├── 03_subcategory_models.ipynb
-│   └── 04_fault_category.ipynb
+│   ├── 04_fault_category.ipynb
+|   └── 05_prediction_engine.ipynb
 │
 ├── src/
 │   ├── config.py              ← all paths & hyper-parameters
